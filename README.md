@@ -11,6 +11,7 @@ It is observed that most of the distribution of orders has been fulfilled by Ama
 
 #### Customer Segmentation
 The Average order value is
+
 647.62   
 406.00   
 329.00   
