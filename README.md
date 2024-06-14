@@ -2,6 +2,7 @@
 
 ### Sales Overview 
 Sales was highest in month of April followed by May , June and March
+![Screenshot (39)](https://github.com/KaranVaghela19/Amazon-Data-Analysis/assets/107034883/86d19df4-553d-4ec3-83f2-c89bf8f1c7fc)
 
 ### Product Analysis 
 The most product sold was T-Shirt followed by Shirt, Blazzer, Trouser, Perfume, Wallet, Socks, Shoes and Watches
