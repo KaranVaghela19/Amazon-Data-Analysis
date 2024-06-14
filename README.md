@@ -6,6 +6,7 @@ Sales was highest in month of April followed by May , June and March
 
 ### Product Analysis 
 The most product sold was T-Shirt followed by Shirt, Blazzer, Trouser, Perfume, Wallet, Socks, Shoes and Watches
+![Screenshot (40)](https://github.com/KaranVaghela19/Amazon-Data-Analysis/assets/107034883/14d0c1fa-944f-4aa6-a753-84693d1854e6)
 
 ### Fullfillment Analysis 
 It is observed that most of the distribution of orders has been fulfilled by Amazon which is 69.6% and orders filled by Merchant is 30.4%
