@@ -1,4 +1,4 @@
-###### Amazon Data Analysis
+# Amazon Data Analysis
 
 ### Sales Overview 
 Sales was highest in month of April followed by May , June and March
