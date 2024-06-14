@@ -10,6 +10,7 @@ The most product sold was T-Shirt followed by Shirt, Blazzer, Trouser, Perfume, 
 
 ### Fullfillment Analysis 
 It is observed that most of the distribution of orders has been fulfilled by Amazon which is 69.6% and orders filled by Merchant is 30.4%
+![Screenshot (41)](https://github.com/KaranVaghela19/Amazon-Data-Analysis/assets/107034883/305ac0e6-6301-47cf-a7be-b49eff7a61c6)
 
 ### Customer Segmentation
 The Average order value is
